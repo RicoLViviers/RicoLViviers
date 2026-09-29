@@ -21,6 +21,4 @@ My main languages are:
 
 ### Some of my projects
 ---
-[Motiora](https://github.com/RicoLViviers/Motiora): A maths/physics library programmed in C# primarily for game developers, but usable by anyone in need of math-specific features.
-
 [TraceTK](https://github.com/RicoLViviers/TraceTK): An OpenTK debugging/profiling tool for inspecting performance and diagnosing graphics applications.
