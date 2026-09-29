@@ -1,16 +1,25 @@
-## Hi there 👋
+### My Skills
+---
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,dotnet,js,html,react,css,vite,cmake,git,github,windows,visualstudio,vscode)](https://skillicons.dev)
 
-<!--
-**RicoLViviers/RicoLViviers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### About Me
+---
+Hello! I'm Rico, a developer who makes projects as a hobby.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy creating new features for projects, minimizing the user's code and maximizing the experience.
+
+My main languages are:
+* C#
+* C++
+* Python
+* Javascript
+* Typescript
+
+<br>
+
+### Some of my projects
+---
+[Motiora](https://github.com/RicoLViviers/Motiora): A maths/physics library programmed in C# primarily for game developers, but usable by anyone in need of math-specific features.
+[TraceTK](https://github.com/RicoLViviers/TraceTK): An OpenTK debugging/profiling tool for inspecting performance and diagnosing graphics applications.
