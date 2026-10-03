@@ -20,6 +20,8 @@ My main languages are:
 
 ### Some of my projects
 ---
+[AITTT](https://github.com/RicoLViviers/aittt): "AI Terminal Text Editor" This is more of a **personal claim** on AI using in the programming industry, it is also a guide to using ai correctly for your projects!
+<br>
 [TraceTK](https://github.com/RicoLViviers/TraceTK): An OpenTK debugging/profiling tool for inspecting performance and diagnosing graphics applications.
 <br>
 [OpenTK Samples](https://github.com/RicoLViviers/OpenTK-Samples.git): Bunch of cool opentk graphics projects to learn opentk and graphics programming. This repository is currently in hold because of `MGEP`.
