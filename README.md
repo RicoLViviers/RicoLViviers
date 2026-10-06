@@ -1,6 +1,6 @@
 ### My Skills
 ---
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,rust,dotnet,html,react,css,vite,cmake,git,github,windows,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,rust,dotnet,html,react,css,cmake,git,github,windows,linux,visualstudio,vscode)](https://skillicons.dev)
 
 <br>
 
