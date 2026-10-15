@@ -28,5 +28,5 @@
 <p>
   📍 South Africa &nbsp;·&nbsp;
   📧 <a href="mailto:ricoleonardv@gmail.com">Contact me</a> &nbsp;·&nbsp;
-  🌐 <a href="https://ricolviviers.github.io">Portfolio</a>
+  🌐 <a href="https://ricolviviers.github.io/portfolio/">Portfolio</a>
 </p>
